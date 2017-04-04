@@ -13,8 +13,8 @@
  ## <h2 id="curriculum">课程列表</h2> 
  课程 | 机构 | 参考书 | Notes等其他资料 
  :-- | :--: | :--: | :--:
- [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html)|MIT| [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)|[链接](N)
- [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)|MIT| [Multivariable Calculu](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20)|[链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+ [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html)|MIT| [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)|[链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+ [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)|MIT| [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20)|[链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
  [线性代数](http://open.163.com/special/opencourse/daishu.html)|MIT| [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/)|[链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
  [概率论与数理统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)|MIT| [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20)|[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
  空气动力学| [暂无] |[暂无] |[暂无]
